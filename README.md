@@ -12,7 +12,7 @@ Before the game starts, players enter their name. Their score is then recorded a
 
 ---
 
-## ✨ Features
+## Features
 
 - **Java Swing UI**: Intuitive and clean graphical interface.
 - **High Score System**: Tracks and stores player scores in a file.
